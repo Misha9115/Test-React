@@ -1,0 +1,5 @@
+export const RETURN_LIST = 'RETURN_LIST'
+export const DELETE_ALL = 'DELETE_ALL'
+export const ADD_NEW_PRODACT = 'ADD_NEW_PRODACT'
+export const DELET_ONE = 'DELET_ONE'
+export const READ_DATA = 'READ_DATA'

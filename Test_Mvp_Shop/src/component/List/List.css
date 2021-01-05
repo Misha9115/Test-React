@@ -1,0 +1,27 @@
+.photo{
+    height: 150pt;
+
+}
+.paper {
+text-align: center;
+
+    color: gray,
+  }
+  .text{
+      margin-right: 3%;
+  }
+  .adminList{
+      margin: auto;
+      margin-top: 3%;
+      margin-bottom: 5pt;
+      width: 15%;
+    border: 2px solid black;
+  }
+  .adminList2{
+    margin-top: 5pt;
+    margin-bottom: 5pt;
+  }
+
+  .add{
+    margin-bottom: 5pt;
+  }

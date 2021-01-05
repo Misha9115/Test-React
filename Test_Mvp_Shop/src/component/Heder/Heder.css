@@ -1,0 +1,30 @@
+.logo{
+    height: 20pt;
+
+}
+.block{
+background-color: brown;
+height: 120px;
+}
+.link{
+    color: rgb(8, 8, 8);
+    text-decoration: none;
+}
+.menuBlock{
+    background-color: rgba(0,0,0,0.8);
+    color: white;
+    margin: 5px auto;
+    width: 90%;
+}
+.reaction {
+    text-decoration: none;
+    width: 20%;
+    
+    align-items: center;
+    
+    color: white;
+    }
+.menu{
+     margin-left: 50%;
+   
+    }
